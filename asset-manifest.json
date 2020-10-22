@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "./static/css/main.a4e2cf62.chunk.css",
-    "main.js": "./static/js/main.379cd97a.chunk.js",
-    "main.js.map": "./static/js/main.379cd97a.chunk.js.map",
+    "main.css": "./static/css/main.af783adf.chunk.css",
+    "main.js": "./static/js/main.0f45d652.chunk.js",
+    "main.js.map": "./static/js/main.0f45d652.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8db801e4.js",
     "runtime-main.js.map": "./static/js/runtime-main.8db801e4.js.map",
-    "static/js/2.5b53ef4b.chunk.js": "./static/js/2.5b53ef4b.chunk.js",
-    "static/js/2.5b53ef4b.chunk.js.map": "./static/js/2.5b53ef4b.chunk.js.map",
+    "static/js/2.b647cdb7.chunk.js": "./static/js/2.b647cdb7.chunk.js",
+    "static/js/2.b647cdb7.chunk.js.map": "./static/js/2.b647cdb7.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.139b6d06ec30ee694ef2378f3245dd82.js": "./precache-manifest.139b6d06ec30ee694ef2378f3245dd82.js",
+    "precache-manifest.90ac31cb1d3cbd0970a16f3229df9ea9.js": "./precache-manifest.90ac31cb1d3cbd0970a16f3229df9ea9.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.a4e2cf62.chunk.css.map": "./static/css/main.a4e2cf62.chunk.css.map",
-    "static/js/2.5b53ef4b.chunk.js.LICENSE.txt": "./static/js/2.5b53ef4b.chunk.js.LICENSE.txt",
-    "static/media/db.svg": "./static/media/db.e5e20ab4.svg"
+    "static/css/main.af783adf.chunk.css.map": "./static/css/main.af783adf.chunk.css.map",
+    "static/js/2.b647cdb7.chunk.js.LICENSE.txt": "./static/js/2.b647cdb7.chunk.js.LICENSE.txt",
+    "static/media/Cloth_shop.jpg": "./static/media/Cloth_shop.ffd11a7b.jpg",
+    "static/media/angular.png": "./static/media/angular.c9b8ae7c.png",
+    "static/media/car_dealer.jpg": "./static/media/car_dealer.445debfa.jpg",
+    "static/media/db.svg": "./static/media/db.e5e20ab4.svg",
+    "static/media/php.jpg": "./static/media/php.7d141062.jpg",
+    "static/media/pokemon.jpg": "./static/media/pokemon.2bb9bc35.jpg",
+    "static/media/react.png": "./static/media/react.7f3096a3.png",
+    "static/media/vue-quiz.jpg": "./static/media/vue-quiz.9973ba9f.jpg",
+    "static/media/vue.png": "./static/media/vue.7912782b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8db801e4.js",
-    "static/js/2.5b53ef4b.chunk.js",
-    "static/css/main.a4e2cf62.chunk.css",
-    "static/js/main.379cd97a.chunk.js"
+    "static/js/2.b647cdb7.chunk.js",
+    "static/css/main.af783adf.chunk.css",
+    "static/js/main.0f45d652.chunk.js"
   ]
 }
